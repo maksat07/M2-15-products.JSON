@@ -1,4 +1,6 @@
 # M2-15-products.JSON
+https://maksat07.github.io/M2-15-products.JSON/
+
 - **Описание задания**
     
     У вас имеется JSON файл содержащий массив товаров:
