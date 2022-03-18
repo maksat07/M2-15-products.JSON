@@ -28,7 +28,7 @@ https://maksat07.github.io/M2-15-products.JSON/
     
     Необходимо обработать данный массив и вывести на Frontend карточки товара:
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/38aa8651-634f-493e-801c-0ccdc137fdd1/Untitled.png)
+    
     
 - **Критерии оценки для cross-check**
     
