@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    height: 100vh;
+    background-color: hsl(217, 54%, 11%);
+    font-family: outfit, sans-serif;
+}
+.products__title { 
+    font: 3em sans-serif;
+    text-align: center;
+    color: cornflowerblue;
+}
+.products__inner {
+    display: flex;
+    flex-wrap: wrap;
+}
