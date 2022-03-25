@@ -1,4 +1,5 @@
-# M2-15-products.JSON
+# M2-15-products.JSON.  Ещё не закончил Д/З 16, так как появился проблема с гитом 
+
 https://maksat07.github.io/M2-15-products.JSON/
 
 - **Описание задания**
